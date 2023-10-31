@@ -1,0 +1,10 @@
+dia = 'segunda'
+if dia == 'domingo'
+  almoco = 'especial'
+elsif dia == 'feriado'
+  almoco = 'mais tarde'
+else
+  almoco = 'normal'
+end
+
+puts "Hoje nosso almoco será #{almoco}
