@@ -1,4 +1,4 @@
-class Loja
+class Mercado
   def inicialize (produto, preco)
       @produto = produto
       @preco = preco
